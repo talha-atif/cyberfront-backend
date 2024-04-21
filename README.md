@@ -26,9 +26,9 @@ Add Remote Access Configuration
 
 Add or modify the following lines in the editor, replacing with your desired values:
 
-        [Service]
-        ExecStart=
-        ExecStart=/usr/bin/dockerd -H fd:// -H tcp://0.0.0.0:2375
+    [Service]
+    ExecStart=
+    ExecStart=/usr/bin/dockerd -H fd:// -H tcp://0.0.0.0:2375
 
 Save the file and reload the systemctl configuration.
 
