@@ -1,0 +1,24 @@
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+64a3fa2ecd43   nice_wilbur   0.38%     4.195MiB / 256MiB   1.64%     30kB / 1.52kB   250kB / 0B   5
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+64a3fa2ecd43   nice_wilbur   30.42%    8.57MiB / 256MiB    3.35%     2.8MB / 50.5kB   250kB / 1.74MB   7
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+64a3fa2ecd43   nice_wilbur   21.81%    8.656MiB / 256MiB   3.38%     8.52MB / 70.4kB   250kB / 7.24MB   7
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+64a3fa2ecd43   nice_wilbur   6.91%     8.922MiB / 256MiB   3.49%     12.6MB / 107kB   250kB / 7.24MB   7
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+64a3fa2ecd43   nice_wilbur   7.19%     8.992MiB / 256MiB   3.51%     15.8MB / 161kB   250kB / 7.24MB   7
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O        BLOCK I/O        PIDS
+64a3fa2ecd43   nice_wilbur   7.16%     9.355MiB / 256MiB   3.65%     19MB / 215kB   250kB / 7.24MB   7
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+64a3fa2ecd43   nice_wilbur   2.94%     9.078MiB / 256MiB   3.55%     21.5MB / 257kB   250kB / 7.24MB   7
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+64a3fa2ecd43   nice_wilbur   7.90%     9.176MiB / 256MiB   3.58%     24.7MB / 309kB   250kB / 7.24MB   7
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+64a3fa2ecd43   nice_wilbur   13.83%    10.46MiB / 256MiB   4.08%     27.9MB / 363kB   250kB / 58.9MB   7
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+64a3fa2ecd43   nice_wilbur   98.10%    52.16MiB / 256MiB   20.38%    31.4MB / 417kB   250kB / 63.1MB   3
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+64a3fa2ecd43   nice_wilbur   11.66%    116MiB / 256MiB     45.33%    31.4MB / 418kB   250kB / 63.6MB   3
+CONTAINER ID   NAME          CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O       PIDS
+64a3fa2ecd43   nice_wilbur   14.92%    133.4MiB / 256MiB   52.10%    31.4MB / 418kB   582kB / 504MB   1
